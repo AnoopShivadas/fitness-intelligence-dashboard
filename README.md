@@ -1,55 +1,69 @@
 # 🏋️ Fitness Intelligence Dashboard
 
-A modern Power BI dashboard designed to analyze fitness metrics, track health indicators, and generate actionable insights using data.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+![Fitness Analytics](https://img.shields.io/badge/Domain-Fitness-success)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+A modern **Power BI dashboard** designed to analyze fitness metrics, monitor health indicators, and generate actionable insights through interactive visualizations and data-driven calculations.
 
 ## 📊 Overview
 
-This dashboard transforms raw fitness data into meaningful insights by combining health calculations with interactive visualizations.
+This project transforms raw fitness data into meaningful insights by combining health calculations with interactive dashboard design.
 
-It focuses on:
-- Body composition analysis  
-- Calorie estimation  
-- Membership insights  
-- Performance tracking  
+### Focus Areas
+- Body composition analysis
+- Calorie estimation
+- Membership insights
+- Fitness performance tracking
+- Financial analytics
 
 ## ⚙️ Features
 
-- BMI calculation with category detection  
-- BMR & TDEE based calorie estimation  
-- Goal-based calorie recommendations  
-- Interactive sliders (age, height, weight, activity)  
-- Membership analytics (Active vs Expired)  
-- Financial overview (Revenue, Expense, Profit)  
+- BMI calculation with category detection
+- BMR & TDEE calorie estimation
+- Goal-based calorie recommendations
+- Interactive sliders (Age, Height, Weight, Activity)
+- Membership analytics (Active vs Expired)
+- Revenue, Expense & Profit overview
+- Dynamic dashboard filtering
 
 ## 🖥️ Dashboard Preview
 
-**Home**  
+### Home Dashboard
 ![Home](images/home.png)
 
-**Overview**  
+### Overview Dashboard
 ![Overview](images/overview.png)
 
-**Calculator**  
+### Fitness Calculator
 ![Calculator](images/Calculator.png)
 
-**Members**  
+### Member Insights
 ![Members](images/members.png)
 
-## 📁 Project Structure
+## 🛠️ Tools & Technologies
 
-```
-dashboard/   → Power BI file  
-images/      → Dashboard previews  
-data/        → Dataset  
-```
-
-## 🛠️ Tools Used
-
-- Power BI  
-- DAX (Data Analysis Expressions)  
-- Data Modeling  
-- UI/UX Dashboard Design  
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- UI/UX Dashboard Design
 
 ## 📌 Key Insight
 
-This project demonstrates how data can be used to make informed fitness decisions by combining analytics with user-friendly design.
+This project demonstrates how analytics can support informed fitness decisions by combining health metrics, financial insights, and interactive visual storytelling.
+
+## 📁 Project Structure
+
+```bash
+📦 Fitness-Intelligence-Dashboard
+├── dashboard/
+│   └── Fitness_Dashboard.pbix
+├── data/
+│   └── dataset.xlsx
+├── images/
+│   ├── home.png
+│   ├── overview.png
+│   ├── Calculator.png
+│   └── members.png
